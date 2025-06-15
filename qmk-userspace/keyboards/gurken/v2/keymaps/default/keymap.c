@@ -10,7 +10,7 @@ enum custom_layers {
 };
 
 // #define RGB_BACKLIGHT_EFFECT 6
-#define RGB_MATRIX_SOLID_COLOR 1
+// #define RGB_MATRIX_SOLID_COLOR 1
 
 #define LOWER MO(_LOWER)
 

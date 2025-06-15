@@ -1,4 +1,8 @@
 /*
+ *
+ * WORK IN PROGRESS - ADAPTATION
+ *
+ *
  * Copyright 2020 Christopher Courtney <drashna@live.com> (@drashna)
  * Copyright 2021 Quentin LEBASTARD <qlebastard@gmail.com>
  * Copyright 2021 Charly Delay <charly@codesink.dev> (@0xcharly)
@@ -50,13 +54,13 @@
      {      6,      5,      4,     3,      2,       1,      0 }, // Num row
      {      13,    12,     11,     10,     9,       8,      7 }, // Top row
      {      20,    19,     18,     17,     16,     15,     14 }, // Middle row
-     {      26,    25,     24,     23,     22,     21         }, // Bottom row
+     {      26,    25,     24,     23,     22,     21  }, // Bottom row
      {      33,    32,     31,     27,     28,     29,     30 }, // Thumb cluster
      // Right split.
      {     34,     35,     36,     37,     38,     39,     40 }, // Num row
      {     41,     42,     43,     44,     45,     46,     47 }, // Top row
      {     48,     49,     50,     51,     52,     53,     54 }, // Middle row
-     {             55,     56,     57,     58,     59,     60 }, // Bottom row
+     {  55,     56,     57,     58,     59,     60 }, // Bottom row
      {     61,     62,     63,     64,     65,     66,     67 }, // Thumb cluster
  }, {
      /* LED index to physical position. */
